@@ -2,4 +2,4 @@ this is my first git file
 
 i updated this file
 
-and this is for master
+and this is for master and this is for bb1 :)
